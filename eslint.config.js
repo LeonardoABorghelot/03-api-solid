@@ -14,7 +14,8 @@ export default [
       "eqeqeq": ["error", "always"],
       "semi": ["error", "always"],
       "quotes": ["error", "double"],
-      "indent": ["error", 2]
+      "indent": ["error", 2],
+      "no-useless-contructor": "off"
     }
   }
 ];
